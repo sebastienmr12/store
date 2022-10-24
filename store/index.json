@@ -789,4 +789,20 @@
     	"feat": "Inception",
     	"invert": true
   }
+},
+  {
+  "name": "Epic Games Store",
+  "icon": "https://commons.m.wikimedia.org/wiki/File:Epic_Games_logo.svg",
+  "type": "app”,
+  "data": {
+    "type": "IFrame",
+    "url": "http://store.epicgames.com",
+    "gallery": [       "https://upload.wikimedia.org/wikipedia/commons/d/d0/Epic_games_store_logo.png",
+      "https://upload.wikimedia.org/wikipedia/commons/d/d0/Epic_games_store_logo.png",
+      "https://upload.wikimedia.org/wikipedia/commons/d/d0/Epic_games_store_logo.png"
+    ],
+    "desc": "Epic Games Store is a shop for video games from the brand Epic Games.",
+    "feat": "More functionality.\nMany such functionality.",
+    "invert": false,
+  }
 }]
